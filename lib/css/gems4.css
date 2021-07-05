@@ -1,0 +1,33 @@
+
+
+div#gemsLogin {
+	padding-top:200px; display: block; 
+	background-size:100% 100%;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../../img/Horizon.jpg");
+}
+button	
+{
+	width: 175px;
+}
+.gems-checkbox-container
+{
+	display:inline;
+	margin-right:16px;
+	margin-bottom:16px;
+	line-height:2.5;
+	width:27%;
+	text-align:left;
+	border-radius:5px;
+}
+.gems-checkbox-on
+{
+	color:#555;
+	box-shadow: 1px 1px 1px;
+	border-radius:100%;
+}
+.gems-checkbox-off
+{
+	color: #777;
+	box-shadow: 1px 1px 1px;
+	border-radius:100%;
+}

@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "/srv/www/htdocs/simplesocial"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "/srv/www/htdocs/gems3"
+		}
+	],
+	"settings": {}
+}
